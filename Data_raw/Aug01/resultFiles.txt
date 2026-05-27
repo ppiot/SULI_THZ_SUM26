@@ -1,0 +1,13 @@
+FineScan1nCDipoleOn.npz
+fine scan1nCNoBBO-BBO-DipoleOn_Shifted.npz
+FineScan1nCNoBBODipoleOff.npz
+FineScan1nCNoBBODipoleOff_Shifted.npz
+fine scan1nCNoBBO-NoSD-DipoleOff_Shifted.npz
+fine scan1nCNoBBO-NoSD-WithIrisDipoleOff_rotated45Shifted.npz
+fine scan1nCNoBBO-NoSD-WithIrisDipoleOff_rotated90Shifted.npz
+fine scan1nCNoBBO-NoSD-WithIrisDipoleOff_Shifted.npz
+FineScan1nC.npz
+FineScan1nCOneBBODipoleOff_Shifted.npz
+FineScan1nCOneBBODipoleOn_Shifted.npz
+quick scan1nCNoBBO-BBO-DipoleOn_Shifted.npz
+test.npz
