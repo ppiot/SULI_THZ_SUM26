@@ -9,6 +9,7 @@ Analysis of electro-optic (EO) sampling data from BeamNetUS experiments at the A
 - `analysisdata_experiment.ipynb` — main analysis notebook. Loads `.npy` scan files, averages every 4 shots, and plots BPD - Reference vs. delay for dipole-on / dipole-off configurations.
 - `jitter_study0Xing.ipynb` — preliminary analysis of fiber-laser timing/jitter data (channels: Ch1 BPM, Ch2 SD, Ch3 FPD). Works with the `.npy` files under `fiberlaser/`.
 - `PostP_fromWanming.py` — original post-processing script from Wanming Liu (`wmliu`). Reads a `.npy` scan dict (`phase`, `peak`), converts phase to delay using a 81.25 MHz reference, and writes paired `.csv` / `.png` outputs.
+- `EPICSPVScanDig.py` - script used to take data (this is a GUI) so a lot of GUI-related content but the format of dumped data is there
 
 ## Data
 
